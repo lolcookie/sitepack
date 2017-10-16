@@ -1,6 +1,7 @@
 {
   "private": true,
   "devDependencies": {
+     "babel-cli": "^6.26.0",
     "babel-core": "^6.24.0",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "babel-plugin-transform-class-properties": "^6.24.0",
